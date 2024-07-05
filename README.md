@@ -1,5 +1,11 @@
 # Waste Water Management Analysis
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+
+
 ### Project Overview
 
 The waste water management project aims to monitor and optimize the treatment and disposal of wastewater in USA. The project involves multiple wastewater treatment plants, sources of waste water across various locations. The main objective is to ensure efficient treatment of wastewater.
@@ -41,16 +47,16 @@ fig.show()'''
 
 - '''Weekday_wise_Activity_df=WstWtrtrt_TrtPlant_df.groupby(['name','Weekday'],as_index=False)['Volume of Water Treated'].sum()'''
 
-### Resulting/Finding
+### Results/Findings
 
 The analysis results are summarized as follows:
 - Los Angeles Treatment Plant is treating highest volume of water.
-   -Sacramento Treatment Plant is treating lowest volume of water.
+   - Sacramento Treatment Plant is treating lowest volume of water.
 - Healthcare and Industrial Sector is generating almost equal % of waste water.
 - Los Angeles Treatment Plant is maximum utilized.
 - Denver Treatment Plant is highly efficient.
 - Almost same volume of waste water is treated everyday by different plants.
-  -For San Diego : Maximum volume of waste water is treated on Friday & Minimum volume is treated on Monday.
+  - For San Diego : Maximum volume of waste water is treated on Friday & Minimum volume is treated on Monday.
 
 
 ### Recommendations
