@@ -15,6 +15,7 @@ The waste water management project aims to monitor and optimize the treatment an
 
 
 ![newplot](https://github.com/lakshm123/Waste_Water_Treatment/assets/109678061/1d5131b3-0b78-463f-9878-9a4007827b02)
+
 ### Data Sources
 
 - Source: The dataset used for this analysis is the "Source.csv" file,containing the information about each source of the waste water. 
