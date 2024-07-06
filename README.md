@@ -11,9 +11,6 @@
 
 The waste water management project aims to monitor and optimize the treatment and disposal of wastewater in USA. The project involves multiple wastewater treatment plants, sources of waste water across various locations. The main objective is to ensure efficient treatment of wastewater.
 
-![BarPlot](newplot.PNG)
-
-
 ![newplot](https://github.com/lakshm123/Waste_Water_Treatment/assets/109678061/1d5131b3-0b78-463f-9878-9a4007827b02)
 
 ### Data Sources
